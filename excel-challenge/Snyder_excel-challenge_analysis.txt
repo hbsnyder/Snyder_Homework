@@ -1,0 +1,12 @@
+1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+It can be concluded that while theatre and music projects are the most successful overall, they also contain the largest amount of projects. Theatre also had the larget overall failures.
+We see that trend continue with the sub-category data. The sub-category of plays has easily 3x more projects than any other sub-category.
+I would also say that generally, there is a trend of growth in successful projects. This lends itself truthfully to the popularity of kickstarter today.
+
+
+2. What are some limitations of this dataset?
+The biggest limitation is that this dataset is out of date. I would also be curious to look closer at the individuals contributing to these fundraisers. There seems to be a niche in theatre, but there has to be something specific blocking them from success in other non-profit areas.
+
+
+3. What are some other possible tables and/or graphs that we could create?
+It would be really interewting to compare dollar amounts, both when it comes to funds raised and goals set. I would love to dig deeper into what led projects to cancel as well.
